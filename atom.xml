@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://topicsociety.github.io</id>
+    <title>Topic Society</title>
+    <updated>2020-05-10T10:49:50.897Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://topicsociety.github.io"/>
+    <link rel="self" href="https://topicsociety.github.io/atom.xml"/>
+    <subtitle>Topic Society 议题社</subtitle>
+    <logo>https://topicsociety.github.io/images/avatar.png</logo>
+    <icon>https://topicsociety.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2020, Topic Society</rights>
+    <entry>
+        <title type="html"><![CDATA[活动｜什么是表演？]]></title>
+        <id>https://topicsociety.github.io/whatsperformance/</id>
+        <link href="https://topicsociety.github.io/whatsperformance/">
+        </link>
+        <updated>2020-05-10T10:44:55.000Z</updated>
+        <content type="html"><![CDATA[<p>活动：工作坊、分享、讨论</p>
+<p>时间：2019年12月10日 下午 3点 到 晚上9点（中间有休息）</p>
+<p>人物：庾凯、丁博</p>
+<p>主办：议题社</p>
+<p>地点：上阳台</p>
+<p>地址：广州市海珠区晓园北路3号后1层</p>
+<hr>
+<h2 id="有关表演的几个问题">有关表演的几个问题</h2>
+<p>“表演”一词可以代表很多东西，但大致都会涉及表演者的某种动作和某种观演关系。</p>
+<p>当我们看到越来越多不同类型的表演之后，我们到底能从这些表演中看到什么？</p>
+<p>同时，当表演者不再纯粹展现身体动作，而越来越多地试图参与某些议题的表达的时候，表演本身是如何构建其语言并进行表达的呢？我们又该如何在训练中体现对这些问题的思考呢？</p>
+<p>怀着这样疑问，我们邀请了不久前游学归来的剧场工作者庾凯，和我们一起讨论关于“训练、表演与交流”的话题。</p>
+<h2 id="工作坊">工作坊</h2>
+<p>本次工作坊希望通过现场参与者的共同练习，对以下问题达成交流，并发现更多的可能性：</p>
+<ul>
+<li>表达需要语言，身体的语言是如何产生的？</li>
+<li>表演通过这些语言传递能量并构成交流，这些能够通过怎样的现场连接得以实现？</li>
+<li>观演过程中的看与被看，是在哪个瞬间融为一体的？</li>
+</ul>
+<h2 id="分享交流会">分享交流会</h2>
+<p>工作坊之后，我们将邀请庾凯聊聊自己在欧洲游学的体会，并将（至少）聊到如下问题：</p>
+<ul>
+<li>什么是有意思的表演？</li>
+<li>表演者如何存在才能达成有效的交流？</li>
+<li>与之相对的一个问题是，观众是否需要表演？是否希望和表演者达成交流？</li>
+<li>如何运用训练与未经训练的身体？</li>
+<li>训练是否必要？或者确切的说不是要不要训练，而是可以怎么训练？</li>
+<li>什么是有建设性的训练？</li>
+</ul>
+<p>不管你是自己做表演还是经常看表演，我们都欢迎你带着自己的疑问来现场交流。</p>
+<h2 id="关于嘉宾">关于嘉宾</h2>
+<p><strong>庾凯</strong></p>
+<p>剧场及艺术领域工作者，独立撰稿。致力于融合身体及声音的表现与当下生活和历史记忆的探索。2006年起，主创《小社会》、《幸存的夏日》等三十多部原创剧目及个人作品。2014年创办实验创作小组“那什么”。展演遍及国内多个城市及韩国、日本、新加坡、印度、美国、欧洲多国的剧场、公共空间等。</p>
+<p>具有丰富的工作坊引领经验。曾为 “韩国Trainer’s Training”、 “台湾东岸表演艺术节”、“Augusto Boal演员与非演员的游戏”、“英国艺术与人文研究委员会（Arts and Humanities Research Council）的INTERSECTION项目”、美术馆儿童戏剧工作坊等导师。</p>
+<p>因对面具、偶及小丑的喜爱，曾前往欧洲向优秀剧团和导师学习并探索面具和偶的制作及表现，并与当地艺术家合作演出。</p>
+<p><strong>丁博</strong></p>
+<p>荒废已久、体重暴增的表演者，仍然相信并不断实践剧场创造空间、激发交流的潜能。作为一个策展人，他也一直在不同领域思考着“艺术可以如何转化”的问题。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://topicsociety.github.io/hello-gridea/</id>
+        <link href="https://topicsociety.github.io/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+<!-- more -->
+<p><a href="https://github.com/getgridea/gridea">Github</a><br>
+<a href="http://hvenotes.fehey.com/">Gridea 主页</a><br>
+<a href="http://fehey.com/">示例网站</a></p>
+<h2 id="特性">特性👇</h2>
+<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
+<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
+<p>🏷️  你可以对文章进行标签分组</p>
+<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
+<p>💻  你可以在 <strong>𝖶𝗂𝗇𝖽𝗈𝗐𝗌</strong> 或 <strong>𝖬𝖺𝖼𝖮𝖲</strong> 设备上使用此客户端</p>
+<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
+<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
+<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
+<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
+<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
+<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前🏃</p>
+<p>未来，它一定会成为你离不开的伙伴</p>
+<p>尽情发挥你的才华吧！</p>
+<p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+</feed>
